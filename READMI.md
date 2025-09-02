@@ -1,5 +1,5 @@
 <h1 align="center">
-  API de Transações com Estatísticas
+  API DE TRANSAÇÔES
 </h1>
 
 <p align="center">
